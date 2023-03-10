@@ -1,0 +1,278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Enwoo\n"
+"POT-Creation-Date: 2022-12-08 13:59+0100\n"
+"PO-Revision-Date: 2015-12-08 20:48+0100\n"
+"Last-Translator: Enwoo <info@envothemes.com>\n"
+"Language-Team: Enwoo <info@envothemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:22
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:25
+msgid "Menu Right"
+msgstr ""
+
+#: functions.php:26
+msgid "Categories Menu"
+msgstr ""
+
+#: functions.php:449
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:459
+msgid "Top Bar Section"
+msgstr ""
+
+#: functions.php:470
+msgid "Header Section"
+msgstr ""
+
+#: functions.php:481
+msgid "Footer Section"
+msgstr ""
+
+#: functions.php:532
+msgid "Category"
+msgstr ""
+
+#: functions.php:536
+msgid "Tags"
+msgstr ""
+
+#: functions.php:697
+msgid "By"
+msgstr ""
+
+#: functions.php:720
+msgid "Off"
+msgstr ""
+
+#: functions.php:723
+msgid "Comment on "
+msgstr ""
+
+#: functions.php:746
+msgid "About The Author"
+msgstr ""
+
+#: functions.php:873
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:873
+msgid "Previous"
+msgstr ""
+
+#: functions.php:874
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:874
+msgid "Next"
+msgstr ""
+
+#: functions.php:998
+msgid "Skip to the content"
+msgstr ""
+
+#: lib/customizer-recommend.php:20 lib/enwoo-dashboard.php:76
+#: lib/enwoo-dashboard.php:126
+#, php-format
+msgid ""
+"To take full advantage of all the features this theme has to offer, please "
+"install and activate the %s plugin."
+msgstr ""
+
+#: lib/customizer-recommend.php:24 lib/enwoo-dashboard.php:70
+#: lib/enwoo-dashboard.php:120
+#, php-format
+msgid "Thank you for installing %s."
+msgstr ""
+
+#: lib/customizer-recommend.php:25 lib/enwoo-plugin-install.php:55
+msgid "Install now"
+msgstr ""
+
+#: lib/customizer-recommend.php:26
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/enwoo-dashboard.php:129 lib/enwoo-plugin-install.php:40
+msgid "Activate"
+msgstr ""
+
+#: lib/customizer/demo.php:15
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/customizer/demo.php:27
+#, php-format
+msgid ""
+"You can import the demo content with just one click. For step-by-step video "
+"tutorial, see %1$s"
+msgstr ""
+
+#: lib/customizer/demo.php:27 lib/customizer/info.php:30
+msgid "documentation"
+msgstr ""
+
+#: lib/customizer/demo.php:42 lib/customizer/demo.php:44
+msgid "Import demo data"
+msgstr ""
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr ""
+
+#: lib/customizer/info.php:26
+#, php-format
+msgid "You can use this theme to create a website like these %1$s"
+msgstr ""
+
+#: lib/customizer/info.php:26
+msgid "demos"
+msgstr ""
+
+#: lib/customizer/info.php:30
+#, php-format
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr ""
+
+#: lib/customizer/info.php:145
+msgid "PRO version"
+msgstr ""
+
+#: lib/customizer/info.php:147
+msgid "View PRO version"
+msgstr ""
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr ""
+
+#: lib/enwoo-dashboard.php:83
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: lib/enwoo-dashboard.php:129 lib/enwoo-plugin-install.php:29
+msgid "Activated"
+msgstr ""
+
+#: lib/enwoo-dashboard.php:129
+msgid "Install"
+msgstr ""
+
+#: lib/enwoo-plugin-install.php:75
+msgid "Learn more"
+msgstr ""
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr ""
+
+#: lib/woocommerce.php:78
+msgid "My Account"
+msgstr ""
+
+#: lib/woocommerce.php:98
+msgid "Wishlist"
+msgstr ""
+
+#: lib/woocommerce.php:118
+msgid "Compare"
+msgstr ""
+
+#: lib/woocommerce.php:159 lib/woocommerce.php:181
+msgid "Categories"
+msgstr ""
+
+#: lib/woocommerce.php:221
+msgid "Search products..."
+msgstr ""
+
+#: lib/woocommerce.php:223
+msgid "All Categories"
+msgstr ""
+
+#: lib/woocommerce.php:254
+msgid "Search"
+msgstr ""
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Select"
+#~ msgstr ""
+#~ "Vyberte stránku, která zobrazí podmínky používání pro registraci partnerů"
